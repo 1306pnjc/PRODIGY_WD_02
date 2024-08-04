@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>StopWatch</title>
+    <link rel="shortcut icon" type="icon" href="watch.jpeg">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <main class="container">
+     <div class="wrapper">
+        <div class="span">
+          <span id="minutes">00</span>:<span id="seconds">00</span>:<span id="milliseconds">00</span>
+        </div>
+          <div class="btn-container">
+          <button onclick="
+            startPause();
+          " class="startPause">Start</button>
+          <button onclick="
+            reset();
+          " class="reset">Reset</button>
+          <button onclick="
+            lap();
+          " class="lap">Lap</button>
+
+          <ol class="js-lapList laps">
+          </ol>|
+        </div>
+      </div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
