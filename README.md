@@ -8,7 +8,7 @@
 
 Two years ago, this project was a JavaScript exercise a way of me testing my javascript skills the whole point was to get comfortable with timers, intervals, DOM manipulation, and state management without leaning on any libraries. The logic worked, but it looked like a coding exercise.
 
-**Recently, I came back to it and gave it a full visual overhaul. The JS core is the same proof of skill it always was, but now its wrapped in a design system that matches the quality of the code underneath. Custom SVG clock face, animated progress ring, a warm dark palette, and a UI that feels like it belongs on a real product.
+Recently, I came back to it and gave it a full visual overhaul. The JS core is the same proof of skill it always was, but now its wrapped in a design system that matches the quality of the code underneath. Custom SVG clock face, animated progress ring, a warm dark palette, and a UI that feels like it belongs on a real product.
 
 The two versions side by side show exactly what two years of growth looks like.
 
