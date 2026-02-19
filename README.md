@@ -112,4 +112,3 @@ The JavaScript fundamentals that started this project two years ago are still th
 
 ---
 
-*Built by hand — with care.*
