@@ -1,4 +1,4 @@
-# VI Chrono — Stopwatch
+# Stopwatch
 
 > A precision stopwatch built to test and prove JavaScript fundamentals. Started two years ago, redesigned yesterday.
 
